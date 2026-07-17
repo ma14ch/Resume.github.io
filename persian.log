@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.13)  25 DEC 2024 20:15
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.13)  15 AUG 2025 14:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -690,7 +690,7 @@ ing=persian-tex-text;"
 ping=persian-tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-LaTeX Info: Redefining \persianfont on input line 12.
+LaTeX Info: Redefining \persianfont on input line 14.
 
 Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             New Roman' with options [Ligatures=TeX].
@@ -712,76 +712,76 @@ Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-LaTeX Info: Redefining \latinfont on input line 13.
-LaTeX Info: Redefining \xepersian@textdigitfont on input line 14.
+LaTeX Info: Redefining \latinfont on input line 15.
+LaTeX Info: Redefining \xepersian@textdigitfont on input line 16.
 Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
-'XB Niloofar' on input line 14.
-LaTeX Font Info:    Redeclaring symbol font `OPERATORS' on input line 14.
+'XB Niloofar' on input line 16.
+LaTeX Font Info:    Redeclaring symbol font `OPERATORS' on input line 16.
 LaTeX Font Info:    Overwriting symbol font `OPERATORS' in version `normal'
 (Font)                  TU/XBNiloofar(2)/m/n --> TU/XBNiloofar(2)/m/n on input 
-line 14.
+line 16.
 LaTeX Font Info:    Overwriting symbol font `OPERATORS' in version `bold'
 (Font)                  TU/XBNiloofar(2)/m/n --> TU/XBNiloofar(2)/m/n on input 
-line 14.
+line 16.
 LaTeX Font Info:    Redeclaring symbol font `new@mathbf@font@digits' on input l
-ine 14.
+ine 16.
 LaTeX Font Info:    Overwriting symbol font `new@mathbf@font@digits' in version
  `normal'
 (Font)                  TU/XBNiloofar(2)/bx/n --> TU/XBNiloofar(2)/bx/n on inpu
-t line 14.
+t line 16.
 LaTeX Font Info:    Overwriting symbol font `new@mathbf@font@digits' in version
  `bold'
 (Font)                  TU/XBNiloofar(2)/bx/n --> TU/XBNiloofar(2)/bx/n on inpu
-t line 14.
+t line 16.
 LaTeX Font Info:    Redeclaring symbol font `new@mathit@font@digits' on input l
-ine 14.
+ine 16.
 LaTeX Font Info:    Overwriting symbol font `new@mathit@font@digits' in version
  `normal'
 (Font)                  TU/XBNiloofar(2)/m/it --> TU/XBNiloofar(2)/m/it on inpu
-t line 14.
+t line 16.
 LaTeX Font Info:    Overwriting symbol font `new@mathit@font@digits' in version
  `bold'
 (Font)                  TU/XBNiloofar(2)/m/it --> TU/XBNiloofar(2)/m/it on inpu
-t line 14.
+t line 16.
 LaTeX Font Info:    Redeclaring symbol font `new@mathrm@font@digits' on input l
-ine 14.
+ine 16.
 LaTeX Font Info:    Overwriting symbol font `new@mathrm@font@digits' in version
  `normal'
 (Font)                  TU/XBNiloofar(2)/m/n --> TU/XBNiloofar(2)/m/n on input 
-line 14.
+line 16.
 LaTeX Font Info:    Overwriting symbol font `new@mathrm@font@digits' in version
  `bold'
 (Font)                  TU/XBNiloofar(2)/m/n --> TU/XBNiloofar(2)/m/n on input 
-line 14.
+line 16.
 
 (./persian.aux)
 \openout1 = `persian.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-6.
+8.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -817,71 +817,120 @@ LaTeX Font Info:    ... okay on input line 16.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 16.
+Package hyperref Info: Link coloring OFF on input line 18.
 (./persian.out) (./persian.out)
 \@outlinefile=\write3
 \openout3 = `persian.out'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--132
+Underfull \hbox (badness 10000) in paragraph at lines 135--139
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--149
+Underfull \hbox (badness 10000) in paragraph at lines 148--156
 [][]
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 157.
+(Font)              <7> on input line 164.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 157.
+(Font)              <5> on input line 164.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(2)/bx/n' in size <10> not availab
 le
 (Font)              Font shape `TU/XBNiloofar(2)/b/n' tried instead on input li
-ne 157.
+ne 164.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(2)/bx/n' in size <7> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(2)/b/n' tried instead on input li
-ne 157.
+ne 164.
 LaTeX Font Info:    Font shape `TU/XBNiloofar(2)/bx/n' in size <5> not availabl
 e
 (Font)              Font shape `TU/XBNiloofar(2)/b/n' tried instead on input li
-ne 157.
+ne 164.
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--159
+Underfull \hbox (badness 10000) in paragraph at lines 160--166
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 161--163
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--174
+Underfull \hbox (badness 10000) in paragraph at lines 174--181
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--183
+Underfull \hbox (badness 10000) in paragraph at lines 185--190
 [][]
  []
 
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 261--267
+Underfull \hbox (badness 10000) in paragraph at lines 299--305
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 271--276
+Underfull \hbox (badness 4713) in paragraph at lines 308--310
+[][]\TU/XBNiloofar(3)/b/n/10 زبان‌ها و چارچوب‌ها: \TU/XBNiloofar(3)/m/n/10 پایت
+ون (فست‌ای‌پی‌آی،[]
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 311--313
+[][]\TU/XBNiloofar(3)/b/n/10 زیرساخت و استقرار: \TU/XBNiloofar(3)/m/n/10 داکر، 
+داکر کامپوز، داکر[]
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 311--313
+[]\TU/XBNiloofar(3)/m/n/10 کنگ، دِک، انجین‌اکس، آپاچی سرور، کلادفلر،[]
+ []
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 314--316
+[][]\TU/XBNiloofar(3)/b/n/10 یادگیری ماشین و مدل‌های زبانی: \TU/XBNiloofar(3)/m
+/n/10 لنگ‌چین،[]
+ []
+
+
+Underfull \hbox (badness 5802) in paragraph at lines 314--316
+[]\TU/XBNiloofar(3)/m/n/10 لنگ‌گراف، هاگینگ‌فیس ترنسفورمرز، پای‌تورچ،[]
+ []
+
+
+Underfull \hbox (badness 3668) in paragraph at lines 317--319
+[][]\TU/XBNiloofar(3)/b/n/10 پردازش تصویر و متن: \TU/XBNiloofar(3)/m/n/10 اوپن‌
+سی‌وی، تسراکت[]
+ []
+
+
+Underfull \hbox (badness 6825) in paragraph at lines 317--319
+[]\TU/XBNiloofar(3)/m/n/10 او‌سی‌آر، پایپ‌لاین او‌سی‌آر، اکسترکشن ویژگی،[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--325
+[]\TU/XBNiloofar(3)/m/n/10 مارک‌داون، لاتک، استراکچر.ام‌دی، بهینه‌سازی[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--282
+Underfull \hbox (badness 10000) in paragraph at lines 349--354
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--360
 [][]
  []
 
@@ -896,10 +945,10 @@ Package rerunfilecheck Info: File `persian.out' has not changed.
 Here is how much of TeX's memory you used:
  14200 strings out of 474773
  288965 string characters out of 5757723
- 1951839 words of memory out of 5000000
+ 1954839 words of memory out of 5000000
  36102 multiletter control sequences out of 15000+600000
  558877 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 109i,5n,137p,1338b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 109i,5n,137p,1313b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on persian.pdf (2 pages).

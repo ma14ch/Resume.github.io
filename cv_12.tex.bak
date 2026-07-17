@@ -1,0 +1,359 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy CV/Resume
+% XeLaTeX Template
+% Version 1.0 (5/5/2014)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Debarghya Das (http://www.debarghyadas.com)
+% With extensive modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important notes:
+% This template needs to be compiled with XeLaTeX.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[a4paper]{deedy-resume} % Use US Letter paper, change to a4paper for A4 
+
+\begin{document}
+\hypersetup{%
+    pdfborder = {0 0 0}
+}
+%----------------------------------------------------------------------------------------
+%	TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+\lastupdated % Print the Last Updated text at the top right
+
+\namesection{Mohammad}{Abbasi}{ % Your name profile or other web address
+Website : \href{zilabs.ir}{\bf http://zilabs.ir} |  Phone Number : +989140062386 \\
+\href{mailto:absi1377@hotmail.com}{absi1377@hotmail.com} | Mohammad Abbasi Chahardah Cherik (linkdin)% Your contact information 
+}
+
+%----------------------------------------------------------------------------------------
+%	LEFT COLUMN
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.33\textwidth} % The left column takes up 33% of the text width of the page
+
+%------------------------------------------------
+% Skills
+%------------------------------------------------
+
+\section{Skills}
+
+\subsection{Programming}
+Python and iPython Notebook \\
+R \\
+JavaScript, HTML, and CSS \\
+MySQL\\
+Matlab\\
+
+\sectionspace % Some white space after the section
+
+\subsection{Algorithms}
+Mathematics\\
+Algorithm Design\\
+Database Design\\
+
+
+\subsection{Machine Learning}
+Regression \\
+Support Vector Machines \\
+Naive Bayes \\
+K-Nearest Neighbors \\
+Decision Trees \\
+Cluster Analysis \\
+Natural Language Processing \\
+
+\sectionspace % Some white space after the section
+
+
+\subsection{Deep Learning}
+Neural Networks \\
+CNN \\
+RNN \\
+GANs \\ 
+Encoder \& Decoder \\
+Transformers\\
+
+
+\sectionspace % Some white space after the section
+
+\subsection{Software}
+Rapid Miner\\
+PhotoShop \\
+\LaTeX \\
+Cvat \\
+Label Studio\\
+Microsoft Office \\
+Canva \\
+Figma \\
+
+\subsection{Operation systems}
+Linux (Expert)\\
+Windows\\
+
+\sectionspace % Some white space after the section
+
+
+\subsection{Platforms}
+Anaconda \\
+NVIDIA\texttrademark NEMO \\
+GitHub \\
+DOCKER \\
+
+\sectionspace % Some white space after the section
+
+
+
+
+%----------------------------------------------------------------------------------------
+
+\end{minipage} % The end of the left column
+\hfill
+%
+%----------------------------------------------------------------------------------------
+%	RIGHT COLUMN
+%----------------------------------------------------------------------------------------
+%
+\begin{minipage}[t]{0.66\textwidth} % The right column takes up 66% of the text width of the page
+
+%------------------------------------------------
+% Experience
+%------------------------------------------------
+
+\section{Experience}
+
+\runsubsection{Entekhab Industrial Group}
+\descript{| AI Specialist}
+
+\location{Nov 2023 – Now | Isfahan,Iran,SnowaTec}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Feature Extraction and Name Entity Recognition by Fine-Tuning Language Models
+\item Text Generation And Feature Extraction Using LLMs
+\item Building Translation Models Using Transformers
+\item Developing Food Recommender System Based On Food Ingredients 
+\item ASR, TTS, LLMs AND Generative AI Using NVIDIA\texttrademark NEMO 
+\item Digikala And Amazon Products User Comments Gathering And Analyzing
+\item ...
+
+\end{tightitemize}
+
+\sectionspace % Some white space after the section
+
+%------------------------------------------------
+\runsubsection{Entekhab Industrial Group}
+\descript{| Technology Forecast Expert}
+
+\location{Oct 2023 – Nov 2023 | Isfahan,Iran,SnowaTec}
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Monitoring artificial intelligence centers of companies related to household appliances (Bosch, Samsung, LG, etc.)
+\item Examining The Structure of Artificial Intelligence Platform and Online Services of Prominent Home Appliance Companies
+\item Patent Search
+\item Benchmark Smart Home appliances and Future Trends 
+\item ...
+
+\end{tightitemize}
+
+\sectionspace % Some white space after the section
+
+\runsubsection{iransmartech}
+\descript{| Content Creator and Website designer}
+
+\location{2021 – 2022 | Isfahan,Iran}
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Design elements and posters with Photoshop 
+\item Website Developer Using Wordpress
+
+\end{tightitemize}
+
+\sectionspace % Some white space after the section
+
+\runsubsection{Farda Sanjesh Sarmayeh(FSSco.)}
+\descript{| Website designer}
+
+\location{2017 – 2018 | Isfahan,Iran}
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Website Developer Using Wordpress
+
+\end{tightitemize}
+
+\sectionspace % Some white space after the section
+
+%------------------------------------------------
+% Education
+%------------------------------------------------
+
+\section{Education}
+
+
+\runsubsection{University of Isfahan}
+\descript{| MSc in Artificial Intelligence }
+\location{2022 – Now | Isfahan,Iran}
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Advanced algorithms, Advanced calculation theory, Advanced Artificial Intelligence, Machine learning, Theoretical foundations of cryptography, Computational data mining, Deep learning
+\end{tightitemize}
+
+\sectionspace % Some white space after the section
+
+\runsubsection{University of Isfahan}
+\descript{| BSc in Computer Science }
+\location{2017 – 2021 | Isfahan,Iran}
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Computer basics and programming, Advanced Programming, Basics of Mathematical Sciences, General Mathematics 1,2, Principles of Computer Systems, Basics of Combinations,  Basics of Matrices and Linear Algebra, Basics of Logic and Set Theory, Fundamentals of Numerical Analysis, Principles of Operating Systems, Designing and Analyzing Algorithms, Mathematics Database, Bases of Probability, Differential Equations, Linear Optimization, Theory of Calculation, Basics of Algebra,  Encryption, Coding Theory, Latex, Matlab, Special Topics in Computer Science(Artificial Intelligence), Logic Circuits
+\end{tightitemize}
+\sectionspace % Some white space after the section
+
+
+
+
+%----------------------------------------------------------------------------------------
+
+\end{minipage} % The end of the right column
+
+%----------------------------------------------------------------------------------------
+%	SECOND PAGE (EXAMPLE)
+%----------------------------------------------------------------------------------------
+
+\newpage
+
+%----------------------------------------------------------------------------------------
+%	LEFT COLUMN
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.33\textwidth} % The left column takes up 33% of the text width of the page
+
+%------------------------------------------------
+% Interests
+%------------------------------------------------
+
+\section{Interests}
+
+\subsection{Research interests}
+Large Language Models\\
+Recommender Systems\\
+AI Futurology\\
+Policy making in Artificial Intelligence\\
+Industry 4.0\\
+
+
+\sectionspace % Some white space after the section
+
+\subsection{Hobbies}
+Photography\\
+Cycling\\
+Running\\
+Theater\\
+Cinema\\
+
+
+\sectionspace % Some white space after the section
+
+\section{Languages}
+Persian (Native)\\
+English (Dominate)\\
+
+
+
+
+
+\sectionspace % Some white space after the section
+
+
+
+%----------------------------------------------------------------------------------------
+
+\end{minipage} % The end of the left column
+\hfill
+%
+%----------------------------------------------------------------------------------------
+%	RIGHT COLUMN
+%----------------------------------------------------------------------------------------
+%
+\begin{minipage}[t]{0.66\textwidth} % The right column takes up 66% of the text width of the page
+
+%------------------------------------------------
+% Nonprofit Sector Experience
+%------------------------------------------------
+
+\section{Nonprofit Sector Experience}
+
+\runsubsection{Islamic Association of Independent Students }
+\descript{| Member}
+\location{2017 – Now | Iran,Isfahan,University of Isfahan}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Attending disadvantaged areas, building houses and schools and providing cultural services
+\item Photography
+\item Content Creating (Using Adobe Photoshop And InDesign)
+\end{tightitemize}
+\descript{| Head of Scientific Assistant}
+\location{Oct 2023 – Now | Iran,Isfahan,University of Isfahan}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Organization and Training of Students Interested in Scientific Activities
+\end{tightitemize}
+\descript{| Vice President of Media}
+\location{2020 – 2021 | Iran,Isfahan,University of Isfahan}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Document production of activities
+\item Content Production and Publication Writing
+\item Teaching Photoshop and Editing Publications to Iterested Students
+\end{tightitemize}
+\sectionspace % Some white space after the section
+
+%------------------------------------------------
+
+%------------------------------------------------
+% Books and specialized courses completed
+%------------------------------------------------
+
+\section{Books and courses}
+
+\runsubsection{Books}
+\descript{ }
+\location{ }
+
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item Data Mining: Concepts and Techniques(by Jiawei Han)
+\item Introduction to Algorithms(CLRS)
+\item Artificial Intelligence - A Modern Approach (2010, Prentice Hall) 
+\item Decision Support Systems for Business Intelligence, 2nd Edition (2010, Wiley)
+\item Matrix Methods in Data Mining and Pattern Recognition
+\item Deep Learning with Python (by François Chollet)
+\end{tightitemize}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+
+\runsubsection{COURSES}
+\descript{' '}
+\location{' '}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightitemize}
+\item  Lynda Data Science Foundations Data Mining
+\item  Udemy R Programming AZ R For Data Science With Real Exercises
+\item  Udemy Learn the 2020 Advanced Python Programming
+\item Harvard CS50AI 2023
+\end{tightitemize}
+
+%------------------------------------------------
+
+
+%----------------------------------------------------------------------------------------
+
+\end{minipage} % The end of the right column
+\end{document}
