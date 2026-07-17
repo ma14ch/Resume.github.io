@@ -1,495 +1,465 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.13)  15 AUG 2025 14:50
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025/Debian) (preloaded format=xelatex 2026.7.10)  17 JUL 2026 13:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **persian.tex
 (./persian.tex
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-02-20>
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
 (./deedy-persian.cls
 Document Class: deedy-persian 2024/12/25 CV class
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count184
-\c@section=\count185
-\c@subsection=\count186
-\c@subsubsection=\count187
-\c@paragraph=\count188
-\c@subparagraph=\count189
-\c@figure=\count190
-\c@table=\count191
-\abovecaptionskip=\skip48
-\belowcaptionskip=\skip49
-\bibindent=\dimen140
+\c@part=\count271
+\c@section=\count272
+\c@subsection=\count273
+\c@subsubsection=\count274
+\c@paragraph=\count275
+\c@subparagraph=\count276
+\c@figure=\count277
+\c@table=\count278
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
 )
-(/usr/local/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count192
-\Gm@cntv=\count193
-\c@Gm@tempcnt=\count194
-\Gm@bindingoffset=\dimen141
-\Gm@wd@mp=\dimen142
-\Gm@odd@mp=\dimen143
-\Gm@even@mp=\dimen144
-\Gm@layoutwidth=\dimen145
-\Gm@layoutheight=\dimen146
-\Gm@layouthoffset=\dimen147
-\Gm@layoutvoffset=\dimen148
+\Gm@cnth=\count279
+\Gm@cntv=\count280
+\c@Gm@tempcnt=\count281
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
 \Gm@dimlist=\toks18
 )
-(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(/usr/local/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 
-(/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
-(/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
 ))
-(/usr/local/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/usr/local/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty
-Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/usr/local/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
-ty
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count195
+\c@section@level=\count282
 )
-(/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count196
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count283
 )
-\@linkdim=\dimen149
-\Hy@linkcounter=\count197
-\Hy@pagecounter=\count198
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
-)
-(/usr/local/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
-Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-)
-\Hy@SavedSpaceFactor=\count199
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
-)
-Package hyperref Info: Hyper figures OFF on input line 4179.
-Package hyperref Info: Link nesting OFF on input line 4184.
-Package hyperref Info: Hyper index ON on input line 4187.
-Package hyperref Info: Plain pages OFF on input line 4194.
-Package hyperref Info: Backreferencing OFF on input line 4199.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count266
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip16
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-LaTeX Info: Redefining \url on input line 4784.
-\XeTeXLinkMargin=\dimen150
-
-(/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
-Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
-))
-\Fld@menulength=\count267
-\Field@Width=\dimen151
-\Fld@charsize=\dimen152
-Package hyperref Info: Hyper figures OFF on input line 6063.
-Package hyperref Info: Link nesting OFF on input line 6068.
-Package hyperref Info: Hyper index ON on input line 6071.
-Package hyperref Info: backreferencing OFF on input line 6078.
-Package hyperref Info: Link coloring OFF on input line 6083.
-Package hyperref Info: Link coloring with OCG OFF on input line 6088.
-Package hyperref Info: PDF/A mode OFF on input line 6093.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
-package with kernel methods
-)
-\Hy@abspage=\count268
-\c@Item=\count269
-\c@Hfootnote=\count270
-)
-Package hyperref Info: Driver (autodetected): hxetex.
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2024-01-20 v7.01h Hyperref driver for XeTeX
-
-(/usr/local/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box51
-\c@Hy@AnnotLevel=\count271
-\HyField@AnnotCount=\count272
-\Fld@listcount=\count273
-\c@bookmark@seq@number=\count274
+\@linkdim=\dimen157
+\Hy@linkcounter=\count284
+\Hy@pagecounter=\count285
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
-with kernel methods
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 )
-(/usr/local/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count286
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count287
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen158
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count288
+\Field@Width=\dimen159
+\Fld@charsize=\dimen160
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count289
+\c@Item=\count290
+\c@Hfootnote=\count291
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2025-07-12 v7.01o Hyperref driver for XeTeX
+\pdfm@box=\box53
+\c@Hy@AnnotLevel=\count292
+\HyField@AnnotCount=\count293
+\Fld@listcount=\count294
+\c@bookmark@seq@number=\count295
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-85.
+84.
 )
-\Hy@SectionHShift=\skip50
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+\Hy@SectionHShift=\skip51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 
 Package xcolor Warning: Package option `usenames' is obsolete and ignored on in
-put line 266.
+put line 265.
 
 Package xcolor Info: Driver file: xetex.def on input line 274.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
 )
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
-Package xcolor Info: Model `RGB' extended on input line 1366.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 )
-(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/dvipsnam.def
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 )
-(/usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2023/10/27 v2.16 Sectioning titles
-\ttl@box=\box52
-\beforetitleunit=\skip51
-\aftertitleunit=\skip52
-\ttl@plus=\dimen153
-\ttl@minus=\dimen154
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box54
+\beforetitleunit=\skip52
+\aftertitleunit=\skip53
+\ttl@plus=\dimen161
+\ttl@minus=\dimen162
 \ttl@toksa=\toks19
-\titlewidth=\dimen155
-\titlewidthlast=\dimen156
-\titlewidthfirst=\dimen157
+\titlewidth=\dimen163
+\titlewidthlast=\dimen164
+\titlewidthfirst=\dimen165
 )
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian/xepersian.sty
-Package: xepersian 2023/08/30 v25.0 (Release Women, Life, and Freedom) Persian 
-typesetting in XeLaTeX
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/usr/local/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/local/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-02-20 L3 programming layer (loader) 
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2024-02-20 L3 backend support: XeTeX
-\g__graphics_track_int=\count275
-\l__pdf_internal_box=\box53
-\g__pdf_backend_object_int=\count276
-\g__pdf_backend_annotation_int=\count277
-\g__pdf_backend_link_int=\count278
-))
-Package: xparse 2024-02-18 L3 Experimental document command parser
-)
-Package: fontspec 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
-Package: fontspec-xetex 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTe
-X
-\l__fontspec_script_int=\count279
-\l__fontspec_language_int=\count280
-\l__fontspec_strnum_int=\count281
-\l__fontspec_tmp_int=\count282
-\l__fontspec_tmpa_int=\count283
-\l__fontspec_tmpb_int=\count284
-\l__fontspec_tmpc_int=\count285
-\l__fontspec_em_int=\count286
-\l__fontspec_emdef_int=\count287
-\l__fontspec_strong_int=\count288
-\l__fontspec_strongdef_int=\count289
-\l__fontspec_tmpa_dim=\dimen158
-\l__fontspec_tmpb_dim=\dimen159
-\l__fontspec_tmpc_dim=\dimen160
-
-(/usr/local/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-)
-(/usr/local/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.
-sty
-Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
-\XePersian@i=\count290
-\XePersian@y=\count291
-\XePersian@m=\count292
-\XePersian@d=\count293
-\XePersian@latini=\count294
-\XePersian@persiani=\count295
-\XePersian@latinii=\count296
-\XePersian@persianii=\count297
-\XePersian@latiniii=\count298
-\XePersian@persianiii=\count299
-\XePersian@latiniv=\count300
-\XePersian@persianiv=\count301
-\XePersian@latinv=\count302
-\XePersian@persianv=\count303
-\XePersian@latinvi=\count304
-\XePersian@persianvi=\count305
-\XePersian@latinvii=\count306
-\XePersian@persianvii=\count307
-\XePersian@latinviii=\count308
-\XePersian@persianviii=\count309
-\XePersian@latinix=\count310
-\XePersian@persianix=\count311
-\XePersian@latinx=\count312
-\XePersian@persianx=\count313
-\XePersian@latinxi=\count314
-\XePersian@persianxi=\count315
-\XePersian@latinxii=\count316
-\XePersian@persianxii=\count317
-\XePersian@persianxiii=\count318
-\XePersian@temp=\count319
-\XePersian@temptwo=\count320
-\XePersian@tempthree=\count321
-\XePersian@yModHundred=\count322
-\XePersian@thirtytwo=\count323
-\XePersian@dn=\count324
-\XePersian@sn=\count325
-\XePersian@mminusone=\count326
-)
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitsp
-ec.sty
-Package: xepersian-mathdigitspec 2022/05/20 v1.2.0 Unicode Persian math digits 
-in XeLaTeX
-) (/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi.sty
-Package: bidi 2023/08/02 v39.8 (Release Donald Ervin Knuth) Bidirectional types
-etting in plain TeX and LaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/xepersian/xepersian.sty
+Package: xepersian 2026/01/01 v26.01.01 (Release Iran) Persian typesetting in X
+eLaTeX
 
 ****************************************************
 * 
-* bidi package (Bidirectional typesetting in
-* plain TeX and LaTeX, using XeTeX engine)
+* xepersian package (Persian for LaTeX format in XeTeX and LuaTeX engines)
+* 
+* Description: A convenient interface for typesetting Persian and
+English documents with LaTeX format in XeTeX and LuaTeX engines.
+* 
+* Copyright (c) 2008--2026 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub Organization
+* 
+* v26.01.01 (Release Iran), 2026/01/01
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/unicodetex/latex/xepersian
+* 
+* Issue tracker: https://github.com/xepersian/xepersian/issues
+* 
+* Primary author of xepersian package: Vafa Khalighi.
+* 
+****************************************************
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2026-01-19 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
+\g__graphics_track_int=\count296
+\g__pdfannot_backend_int=\count297
+\g__pdfannot_backend_link_int=\count298
+))
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count299
+\l__fontspec_language_int=\count300
+\l__fontspec_strnum_int=\count301
+\l__fontspec_tmp_int=\count302
+\l__fontspec_tmpa_int=\count303
+\l__fontspec_tmpb_int=\count304
+\l__fontspec_tmpc_int=\count305
+\l__fontspec_em_int=\count306
+\l__fontspec_emdef_int=\count307
+\l__fontspec_strong_int=\count308
+\l__fontspec_strongdef_int=\count309
+\l__fontspec_tmpa_dim=\dimen166
+\l__fontspec_tmpb_dim=\dimen167
+\l__fontspec_tmpc_dim=\dimen168
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/xepersian/unicode-persiancal.sty
+Package: unicode-persiancal 2025/01/01 v0.3 Unicode Persian calendar
+\XePersian@i=\count310
+\XePersian@y=\count311
+\XePersian@m=\count312
+\XePersian@d=\count313
+\XePersian@latini=\count314
+\XePersian@persiani=\count315
+\XePersian@latinii=\count316
+\XePersian@persianii=\count317
+\XePersian@latiniii=\count318
+\XePersian@persianiii=\count319
+\XePersian@latiniv=\count320
+\XePersian@persianiv=\count321
+\XePersian@latinv=\count322
+\XePersian@persianv=\count323
+\XePersian@latinvi=\count324
+\XePersian@persianvi=\count325
+\XePersian@latinvii=\count326
+\XePersian@persianvii=\count327
+\XePersian@latinviii=\count328
+\XePersian@persianviii=\count329
+\XePersian@latinix=\count330
+\XePersian@persianix=\count331
+\XePersian@latinx=\count332
+\XePersian@persianx=\count333
+\XePersian@latinxi=\count334
+\XePersian@persianxi=\count335
+\XePersian@latinxii=\count336
+\XePersian@persianxii=\count337
+\XePersian@persianxiii=\count338
+\XePersian@temp=\count339
+\XePersian@temptwo=\count340
+\XePersian@tempthree=\count341
+\XePersian@yModHundred=\count342
+\XePersian@thirtytwo=\count343
+\XePersian@dn=\count344
+\XePersian@sn=\count345
+\XePersian@mminusone=\count346
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xepersian/unicode-persianmath.sty
+Package: unicode-persianmath 2026/01/01 v1.2.6 Unicode Persian math
+)
+(/usr/share/texlive/texmf-dist/tex/latex/bidi/bidi.sty
+Package: bidi 2026/01/08 v26.01.08 (Release Iran) Bidirectional typesetting in 
+plain TeX and LaTeX
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting with
+* plain TeX and LaTeX formats in XeTeX and LuaTeX engines)
 * 
 * Description: A convenient interface for
 * typesetting bidirectional texts in plain TeX
 * and LaTeX. The package includes adaptations
 * for use with many other commonly-used packages.
 * 
-* Copyright (c) 2007--2023 Vafa Khalighi
+* Copyright (c) 2007--2026 Vafa Khalighi
 * Copyright (c) 2018--2020 bidi-tex GitHub organization
 * 
-* v39.8 (Release Donald Ervin Knuth), 2023/08/02
+* v26.01.08 (Release Iran), 2026/01/08
 * 
 * License: LaTeX Project Public License, version
 * 1.3c or higher (your choice)
 * 
-* Location on CTAN: /macros/xetex/latex/bidi
+* Location on CTAN: /macros/unicodetex/generic/bidi
 * 
-* Issue tracker: https://github.com/kvafa/bidi/issues
-* 
-* Discussions: https://github.com/kvafa/bidi/discussions
+* Issue tracker: https://github.com/xepersian/bidi/issues
 * 
 * Primary author of bidi package: Vafa Khalighi.
 * 
 ****************************************************
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/biditools.sty
-Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
+(/usr/share/texlive/texmf-dist/tex/latex/bidi/biditools.sty
+Package: biditools 2025/12/19 v2.9 Programming tools for bidi package
 \@bidi@envbody=\toks20
 \@bidi@emptytoks=\toks21
-\bidi@poscount=\count327
-\bidi@tempcountb=\count328
+\bidi@poscount=\count347
+\bidi@tempcountb=\count348
 \bidi@temptoksa=\toks22
 \bidi@temptoksb=\toks23
-\bidi@dummies=\count329
+\bidi@dummies=\count349
 \bidi@are@these@correct=\toks24
 \bidi@toks@lista=\toks25
 \bidi@toks@listb=\toks26
-\bidi@stack@length=\count330
+\bidi@stack@length=\count350
 \bidi@empty@stack=\toks27
-\bidi@looprepeat@depth=\count331
+\bidi@looprepeat@depth=\count351
 )
-(/usr/local/texlive/2024/texmf-dist/tex/latex/zref/zref-abspage.sty
-Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2025-06-08 v2.36 Module abspage for zref (HO)
 
-(/usr/local/texlive/2024/texmf-dist/tex/latex/zref/zref-base.sty
-Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2025-06-08 v2.36 Module base for zref (HO)
 
-(/usr/local/texlive/2024/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 Package zref Info: New property list: main on input line 767.
 Package zref Info: New property: default on input line 768.
 Package zref Info: New property: page on input line 769.
 )
-\c@abspage=\count332
+\c@abspage=\count352
 Package zref Info: New property: abspage on input line 67.
 )
-(/usr/local/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks28
-\XKV@tempa@toks=\toks29
-)
-\XKV@depth=\count333
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
 \@bidi@copyins@=\insert252
+\bidi@typesethour=\count353
+\bidi@typesetminute=\count354
 
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
-File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
+(/usr/share/texlive/texmf-dist/tex/latex/bidi/latex-xetex-bidi.def
+File: latex-xetex-bidi.def 2025/12/19 v1.5.6 bidi adaptations for `latex.ltx' f
 or XeTeX engine
-\bidi@n@everypar=\toks30
-\bidi@column@check@number=\count334
+\bidi@n@everypar=\toks28
+LaTeX Info: Redefining \centerline on input line 317.
+LaTeX Info: Redefining \leftline on input line 326.
+LaTeX Info: Redefining \rightline on input line 327.
+LaTeX Info: Redefining \underline on input line 335.
+\bidi@column@check@number=\count355
 
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
-File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
+(/usr/share/texlive/texmf-dist/tex/latex/bidi/footnote-xetex-bidi.def
+File: footnote-xetex-bidi.def 2025/09/30 v1.6 bidi footnote macros for XeTeX en
 gine
-\c@footdir@label=\count335
-\footdir@toks=\toks31
+\c@footdir@label=\count356
+\footdir@toks=\toks29
 )
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/article-xetex-bidi.def
-File: article-xetex-bidi.def 2017/06/09 v0.6 bidi adaptations for standard arti
+(/usr/share/texlive/texmf-dist/tex/latex/bidi/article-xetex-bidi.def
+File: article-xetex-bidi.def 2025/09/30 v1.2 bidi adaptations for standard arti
 cle class for XeTeX engine
 )
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/color-xetex-bidi.def
+(/usr/share/texlive/texmf-dist/tex/latex/bidi/color-xetex-bidi.def
 File: color-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for color package f
 or XeTeX engine
-LaTeX Info: Redefining \color on input line 49.
+LaTeX Info: Redefining \color on input line 50.
 )
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/xcolor-xetex-bidi.def
-File: xcolor-xetex-bidi.def 2022/06/13 v0.3 bidi adaptations for xcolor package
- for XeTeX engine
-LaTeX Info: Redefining \color on input line 48.
-LaTeX Info: Redefining \bidicolor on input line 91.
-)
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/geometry-xetex-bidi.def
+(/usr/share/texlive/texmf-dist/tex/latex/bidi/geometry-xetex-bidi.def
 File: geometry-xetex-bidi.def 2017/01/14 v0.2 bidi adaptations for geometry pac
 kage for XeTeX engine
 )
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/hyperref-xetex-bidi.def
-File: hyperref-xetex-bidi.def 2018/11/11 v1.1 bidi adaptations for hyperref pac
+(/usr/share/texlive/texmf-dist/tex/latex/bidi/hyperref-xetex-bidi.def
+File: hyperref-xetex-bidi.def 2025/12/06 v1.5 bidi adaptations for hyperref pac
 kage for XeTeX engine
 )
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/titlesec-xetex-bidi.def
+(/usr/share/texlive/texmf-dist/tex/latex/bidi/titlesec-xetex-bidi.def
 File: titlesec-xetex-bidi.def 2010/07/25 v0.1 bidi adaptations for titlesec pac
 kage for XeTeX engine
-))
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.de
-f
-File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
- last package loaded
 )
-\bidi@digits=\count336
+(/usr/share/texlive/texmf-dist/tex/latex/bidi/xcolor-xetex-bidi.def
+File: xcolor-xetex-bidi.def 2022/06/13 v0.3 bidi adaptations for xcolor package
+ for XeTeX engine
+LaTeX Info: Redefining \color on input line 49.
+LaTeX Info: Redefining \bidicolor on input line 92.
+))
+\bidi@digits=\count357
 \bidi@digits@charclass=\XeTeXcharclass1
 \bidi@sepmark@charclass=\XeTeXcharclass2
 )
-****************************************************
-* 
-* xepersian package (Persian for LaTeX, using XeTeX engine)
-* 
-* Description: The package supports Persian
-* typesetting, using fonts provided in the
-* distribution.
-* 
-* Copyright (c) 2008--2023 Vafa Khalighi
-* Copyright (c) 2018--2020 bidi-tex GitHub Organization
-* 
-* v25.0 (Release Women, Life, and Freedom), 2023/08/30
-* 
-* License: LaTeX Project Public License, version
-* 1.3c or higher (your choice)
-* 
-* Location on CTAN: /macros/xetex/latex/xepersian
-* 
-* Issue tracker: https://github.com/kvafa/xepersian/issues
-* 
-* Discussions: https://github.com/kvafa/xepersian/discussions
-* 
-* Primary author of xepersian package: Vafa Khalighi.
-* 
-****************************************************
-\xepersian@tcl=\count337
-\xepersian@ilg=\dimen161
-\xepersian@strutilg=\dimen162
+\xepersian@tcl=\count358
+\xepersian@ilg=\dimen169
+\xepersian@strutilg=\dimen170
 
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersia
-n.def
-File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is 
-the last package loaded
+(/usr/share/texlive/texmf-dist/tex/latex/xepersian/footnote-xetex-bidi-xetex-xe
+persian.def
+File: footnote-xetex-bidi-xetex-xepersian.def 2017/08/09 v0.6 xepersian adaptat
+ions for footnotes for XeTeX engine
 )
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian/footnote-xepersian.de
-f
-File: footnote-xepersian.def 2017/08/09 v0.6 footnote macros for xepersian pack
-age
+(/usr/share/texlive/texmf-dist/tex/latex/xepersian/article-xetex-xepersian.def
+File: article-xetex-xepersian.def 2010/07/25 v0.2 xepersian adaptations for sta
+ndard article class for XeTeX engine
 )
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian/hyperref-xepersian.de
-f
-File: hyperref-xepersian.def 2022/10/30 v0.8 xepersian adaptations for hyperref
- package
-) (/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian/url-xepersian.def
-File: url-xepersian.def 2022/02/18 v0.1 adaptations for url package
+(/usr/share/texlive/texmf-dist/tex/latex/xepersian/hyperref-xetex-xepersian.def
+File: hyperref-xetex-xepersian.def 2022/10/30 v0.8 xepersian adaptations for hy
+perref package for XeTeX engine
+) (/usr/share/texlive/texmf-dist/tex/latex/xepersian/url-xetex-xepersian.def
+File: url-xetex-xepersian.def 2025/09/03 v0.2 xepersian adaptations for url pac
+kage for XeTeX engine
 )
-(/usr/local/texlive/2024/texmf-dist/tex/xelatex/xepersian/article-xepersian.def
-File: article-xepersian.def 2010/07/25 v0.2 adaptations for standard article cl
-ass
+\xepersian@toks=\toks30
 )
 
-Package fontspec Info: Font family 'lmroman10-regular(0)' created for font
+Package fontspec Info: 
+(fontspec)             Font family 'lmroman10-regular(0)' created for font
 (fontspec)             'lmroman10-regular' with options
 (fontspec)             [Ligatures=TeX,Path,BoldFont={lmroman10-bold},BoldItalic
 Font={lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmroma
@@ -536,9 +506,24 @@ apping=tex-text;"
 (fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
 ;mapping=tex-text;"
 
-)
 
-Package fontspec Info: Font family 'XBNiloofar(0)' created for font 'XB
+Package fontspec Info: 
+(fontspec)             Could not resolve font "XB Niloofar/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "XB Niloofar/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "XB Niloofar/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'XBNiloofar(0)' created for font 'XB
 (fontspec)             Niloofar' with options
 (fontspec)             [RawFeature={script=arab},Ligatures=PersianTeX,Color=pri
 mary].
@@ -550,40 +535,33 @@ mary].
 (fontspec)             Niloofar/OT:script=latn;language=dflt;script=arab;mappin
 g=persian-tex-text;color=2B2B2BFF
 (fontspec)             ;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/B/OT:script=latn;language=dflt;script=arab;mapp
-ing=persian-tex-text;color=2B2B2BFF
-(fontspec)             ;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/I/OT:script=latn;language=dflt;script=arab;mapp
-ing=persian-tex-text;color=2B2B2BFF
-(fontspec)             ;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/BI/OT:script=latn;language=dflt;script=arab;map
-ping=persian-tex-text;color=2B2B2BFF
-(fontspec)             ;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
-Package fontspec Info: XB Niloofar scale = 0.999996448876247.
+Package fontspec Info: 
+(fontspec)             XB Niloofar scale = 0.999996448876247.
 
 
-Package fontspec Info: XB Niloofar scale = 0.999996448876247.
+Package fontspec Info: 
+(fontspec)             Could not resolve font "XB Niloofar/BI" (it probably
+(fontspec)             doesn't exist).
 
 
-Package fontspec Info: XB Niloofar/B scale = 0.994346771374395.
+Package fontspec Info: 
+(fontspec)             Could not resolve font "XB Niloofar/B" (it probably
+(fontspec)             doesn't exist).
 
 
-Package fontspec Info: XB Niloofar/I scale = 0.999996448876247.
+Package fontspec Info: 
+(fontspec)             Could not resolve font "XB Niloofar/I" (it probably
+(fontspec)             doesn't exist).
 
 
-Package fontspec Info: XB Niloofar/BI scale = 0.994346771374395.
+Package fontspec Info: 
+(fontspec)             XB Niloofar scale = 0.999996448876247.
 
 
-Package fontspec Info: Font family 'XBNiloofar(1)' created for font 'XB
+Package fontspec Info: 
+(fontspec)             Font family 'XBNiloofar(1)' created for font 'XB
 (fontspec)             Niloofar' with options
 (fontspec)             [Ligatures=TeX,Scale=MatchLowercase,Mapping=tex-text].
 (fontspec)              
@@ -594,25 +572,25 @@ Package fontspec Info: Font family 'XBNiloofar(1)' created for font 'XB
 (fontspec)             <->s*[0.999996448876247]"XB
 (fontspec)             Niloofar/OT:script=latn;language=dflt;mapping=tex-text;"
 
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->s*[0.994346771374395]"XB
-(fontspec)             Niloofar/B/OT:script=latn;language=dflt;mapping=tex-text
-;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->s*[0.999996448876247]"XB
-(fontspec)             Niloofar/I/OT:script=latn;language=dflt;mapping=tex-text
-;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->s*[0.994346771374395]"XB
-(fontspec)             Niloofar/BI/OT:script=latn;language=dflt;mapping=tex-tex
-t;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
-Package fontspec Info: Font family 'XBNiloofar(2)' created for font 'XB
+Package fontspec Info: 
+(fontspec)             Could not resolve font "XB Niloofar/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "XB Niloofar/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "XB Niloofar/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'XBNiloofar(2)' created for font 'XB
 (fontspec)             Niloofar' with options [Ligatures=PersianTeX].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
@@ -621,52 +599,81 @@ Package fontspec Info: Font family 'XBNiloofar(2)' created for font 'XB
 (fontspec)             - 'normal' (m/n) with NFSS spec.: <->"XB
 (fontspec)             Niloofar/OT:script=latn;language=dflt;mapping=persian-te
 x-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/B/OT:script=latn;language=dflt;mapping=persian-
-tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/I/OT:script=latn;language=dflt;mapping=persian-
-tex-text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/BI/OT:script=latn;language=dflt;mapping=persian
--tex-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
-'XB Niloofar' on input line 50.
-\symOPERATORS=\mathgroup4
-\symnew@mathbf@font@digits=\mathgroup5
-\symnew@mathit@font@digits=\mathgroup6
-\symnew@mathrm@font@digits=\mathgroup7
- (/usr/local/texlive/2024/texmf-dist/tex/latex/textpos/textpos.sty
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "XB Niloofar/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "XB Niloofar/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "XB Niloofar/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'XBNiloofar(3)' created for font 'XB
+(fontspec)             Niloofar' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"XB
+(fontspec)             Niloofar/OT:script=latn;language=dflt;"
+
+Package unicode-persianmath Info: DefiningthedefaultPersianmathdigitsfontas'XB 
+Niloofar' on input line 50.
+\sympersianoperators=\mathgroup4
+\sympersianoperatorsbf=\mathgroup5
+\sympersianoperatorsit=\mathgroup6
+
+(/usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
 Package: textpos 2022/07/23 v1.10.1
 Package textpos Info: choosing support for LaTeX3 on input line 60.
-\TP@textbox=\box54
-\TP@holdbox=\box55
-\TPHorizModule=\dimen163
-\TPVertModule=\dimen164
-\TP@margin=\dimen165
-\TP@absmargin=\dimen166
+\TP@textbox=\box55
+\TP@holdbox=\box56
+\TPHorizModule=\dimen171
+\TPVertModule=\dimen172
+\TP@margin=\dimen173
+\TP@absmargin=\dimen174
 
 Grid set 16 x 16 = 37.34424pt x 52.81541pt
-\TPboxrulesize=\dimen167
-\TP@ox=\dimen168
-\TP@oy=\dimen169
-\TP@tbargs=\toks32
+\TPboxrulesize=\dimen175
+\TP@ox=\dimen176
+\TP@oy=\dimen177
+\TP@tbargs=\toks31
 TextBlockOrigin set to 0pt x 0pt
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/advdate/advdate.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/advdate/advdate.sty
 Package: advdate 1996/10/20 Advance Date Package
-\r@k=\count338
-\un@r=\count339
-\m@l=\count340
-\m@s=\count341
-\M@s=\count342
+\r@k=\count359
+\un@r=\count360
+\m@l=\count361
+\m@s=\count362
+\M@s=\count363
 ))
 
-Package fontspec Info: Font family 'XBNiloofar(3)' created for font 'XB
+Package fontspec Info: 
+(fontspec)             Could not resolve font "XB Niloofar/BI" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "XB Niloofar/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "XB Niloofar/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'XBNiloofar(4)' created for font 'XB
 (fontspec)             Niloofar' with options
 (fontspec)             [RawFeature={script=arab},Ligatures=PersianTeX].
 (fontspec)              
@@ -676,23 +683,26 @@ Package fontspec Info: Font family 'XBNiloofar(3)' created for font 'XB
 (fontspec)             - 'normal' (m/n) with NFSS spec.: <->"XB
 (fontspec)             Niloofar/OT:script=latn;language=dflt;script=arab;mappin
 g=persian-tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/B/OT:script=latn;language=dflt;script=arab;mapp
-ing=persian-tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/I/OT:script=latn;language=dflt;script=arab;mapp
-ing=persian-tex-text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"XB
-(fontspec)             Niloofar/BI/OT:script=latn;language=dflt;script=arab;map
-ping=persian-tex-text;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 LaTeX Info: Redefining \persianfont on input line 14.
 
-Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Times New Roman/BI" (it
+(fontspec)             probably doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Times New Roman/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Could not resolve font "Times New Roman/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             New Roman' with options [Ligatures=TeX].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
@@ -700,61 +710,42 @@ Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
 (fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
-(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
-(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
-(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
-
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 LaTeX Info: Redefining \latinfont on input line 15.
 LaTeX Info: Redefining \xepersian@textdigitfont on input line 16.
-Package xepersian-mathdigitspec Info: DefiningthedefaultPersianmathdigitsfontas
-'XB Niloofar' on input line 16.
-LaTeX Font Info:    Redeclaring symbol font `OPERATORS' on input line 16.
-LaTeX Font Info:    Overwriting symbol font `OPERATORS' in version `normal'
-(Font)                  TU/XBNiloofar(2)/m/n --> TU/XBNiloofar(2)/m/n on input 
+Package unicode-persianmath Info: DefiningthedefaultPersianmathdigitsfontas'XB 
+Niloofar' on input line 16.
+LaTeX Font Info:    Redeclaring symbol font `persianoperators' on input line 16
+.
+LaTeX Font Info:    Overwriting symbol font `persianoperators' in version `norm
+al'
+(Font)                  TU/XBNiloofar(3)/m/n --> TU/XBNiloofar(3)/m/n on input 
 line 16.
-LaTeX Font Info:    Overwriting symbol font `OPERATORS' in version `bold'
-(Font)                  TU/XBNiloofar(2)/m/n --> TU/XBNiloofar(2)/m/n on input 
+LaTeX Font Info:    Overwriting symbol font `persianoperators' in version `bold
+'
+(Font)                  TU/XBNiloofar(3)/m/n --> TU/XBNiloofar(3)/m/n on input 
 line 16.
-LaTeX Font Info:    Redeclaring symbol font `new@mathbf@font@digits' on input l
-ine 16.
-LaTeX Font Info:    Overwriting symbol font `new@mathbf@font@digits' in version
- `normal'
-(Font)                  TU/XBNiloofar(2)/bx/n --> TU/XBNiloofar(2)/bx/n on inpu
+LaTeX Font Info:    Redeclaring symbol font `persianoperatorsbf' on input line 
+16.
+LaTeX Font Info:    Overwriting symbol font `persianoperatorsbf' in version `no
+rmal'
+(Font)                  TU/XBNiloofar(3)/bx/n --> TU/XBNiloofar(3)/bx/n on inpu
 t line 16.
-LaTeX Font Info:    Overwriting symbol font `new@mathbf@font@digits' in version
- `bold'
-(Font)                  TU/XBNiloofar(2)/bx/n --> TU/XBNiloofar(2)/bx/n on inpu
+LaTeX Font Info:    Overwriting symbol font `persianoperatorsbf' in version `bo
+ld'
+(Font)                  TU/XBNiloofar(3)/bx/n --> TU/XBNiloofar(3)/bx/n on inpu
 t line 16.
-LaTeX Font Info:    Redeclaring symbol font `new@mathit@font@digits' on input l
-ine 16.
-LaTeX Font Info:    Overwriting symbol font `new@mathit@font@digits' in version
- `normal'
-(Font)                  TU/XBNiloofar(2)/m/it --> TU/XBNiloofar(2)/m/it on inpu
+LaTeX Font Info:    Redeclaring symbol font `persianoperatorsit' on input line 
+16.
+LaTeX Font Info:    Overwriting symbol font `persianoperatorsit' in version `no
+rmal'
+(Font)                  TU/XBNiloofar(3)/m/it --> TU/XBNiloofar(3)/m/it on inpu
 t line 16.
-LaTeX Font Info:    Overwriting symbol font `new@mathit@font@digits' in version
- `bold'
-(Font)                  TU/XBNiloofar(2)/m/it --> TU/XBNiloofar(2)/m/it on inpu
+LaTeX Font Info:    Overwriting symbol font `persianoperatorsit' in version `bo
+ld'
+(Font)                  TU/XBNiloofar(3)/m/it --> TU/XBNiloofar(3)/m/it on inpu
 t line 16.
-LaTeX Font Info:    Redeclaring symbol font `new@mathrm@font@digits' on input l
-ine 16.
-LaTeX Font Info:    Overwriting symbol font `new@mathrm@font@digits' in version
- `normal'
-(Font)                  TU/XBNiloofar(2)/m/n --> TU/XBNiloofar(2)/m/n on input 
-line 16.
-LaTeX Font Info:    Overwriting symbol font `new@mathrm@font@digits' in version
- `bold'
-(Font)                  TU/XBNiloofar(2)/m/n --> TU/XBNiloofar(2)/m/n on input 
-line 16.
-
-(./persian.aux)
+ (./persian.aux)
 \openout1 = `persian.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -766,11 +757,6 @@ LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-8.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
@@ -823,132 +809,130 @@ Package hyperref Info: Link coloring OFF on input line 18.
 \openout3 = `persian.out'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--139
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar(4)/b/n' undefined
+(Font)              using `TU/XBNiloofar(4)/m/n' instead on input line 32.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--145
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--156
+Underfull \hbox (badness 10000) in paragraph at lines 154--162
 [][]
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 164.
+(Font)              <9> on input line 171.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 164.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(2)/bx/n' in size <10> not availab
-le
-(Font)              Font shape `TU/XBNiloofar(2)/b/n' tried instead on input li
-ne 164.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(2)/bx/n' in size <7> not availabl
-e
-(Font)              Font shape `TU/XBNiloofar(2)/b/n' tried instead on input li
-ne 164.
-LaTeX Font Info:    Font shape `TU/XBNiloofar(2)/bx/n' in size <5> not availabl
-e
-(Font)              Font shape `TU/XBNiloofar(2)/b/n' tried instead on input li
-ne 164.
+(Font)              <6> on input line 171.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 171.
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--166
+LaTeX Font Warning: Font shape `TU/XBNiloofar(3)/bx/n' undefined
+(Font)              using `TU/XBNiloofar(3)/m/n' instead on input line 171.
+
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar(3)/m/it' undefined
+(Font)              using `TU/XBNiloofar(3)/m/n' instead on input line 171.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--173
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--170
+Underfull \hbox (badness 10000) in paragraph at lines 175--177
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--181
+Underfull \hbox (badness 10000) in paragraph at lines 181--188
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--190
+Underfull \hbox (badness 10000) in paragraph at lines 192--197
 [][]
  []
 
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 299--305
+
+LaTeX Font Warning: Font shape `TU/TimesNewRoman(0)/b/n' undefined
+(Font)              using `TU/TimesNewRoman(0)/m/n' instead on input line 226.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--323
 [][]
  []
 
 
-Underfull \hbox (badness 4713) in paragraph at lines 308--310
-[][]\TU/XBNiloofar(3)/b/n/10 زبان‌ها و چارچوب‌ها: \TU/XBNiloofar(3)/m/n/10 پایت
-ون (فست‌ای‌پی‌آی،[]
+Underfull \hbox (badness 10000) in paragraph at lines 326--328
+[][]\TU/XBNiloofar(4)/b/n/9 زبان‌ها و چارچوب‌ها: پایتون (فست‌ای‌پی‌آی،[]
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 311--313
-[][]\TU/XBNiloofar(3)/b/n/10 زیرساخت و استقرار: \TU/XBNiloofar(3)/m/n/10 داکر، 
-داکر کامپوز، داکر[]
+Underfull \hbox (badness 10000) in paragraph at lines 326--328
+[]\TU/XBNiloofar(4)/b/n/9 فلسک، استریم‌لیت)، جاوااسکریپت (نود.جی‌اس)،[]
  []
 
 
-Underfull \hbox (badness 2150) in paragraph at lines 311--313
-[]\TU/XBNiloofar(3)/m/n/10 کنگ، دِک، انجین‌اکس، آپاچی سرور، کلادفلر،[]
+Underfull \hbox (badness 1748) in paragraph at lines 332--334
+[]\TU/XBNiloofar(4)/b/n/9 هاگینگ‌فیس ترنسفورمرز، پای‌تورچ، تنسورفلو، انویدیا[]
  []
 
 
-Underfull \hbox (badness 5217) in paragraph at lines 314--316
-[][]\TU/XBNiloofar(3)/b/n/10 یادگیری ماشین و مدل‌های زبانی: \TU/XBNiloofar(3)/m
-/n/10 لنگ‌چین،[]
+Underfull \hbox (badness 4108) in paragraph at lines 338--340
+[]\TU/XBNiloofar(4)/b/n/9 فلش اتنشن، پیش‌پردازش داده‌ها (ای‌اس‌آر، او‌سی‌آر،[]
  []
 
 
-Underfull \hbox (badness 5802) in paragraph at lines 314--316
-[]\TU/XBNiloofar(3)/m/n/10 لنگ‌گراف، هاگینگ‌فیس ترنسفورمرز، پای‌تورچ،[]
+Underfull \hbox (badness 10000) in paragraph at lines 341--343
+[][]\TU/XBNiloofar(4)/b/n/9 مدیریت نسخه و مستندسازی: گیت، گیت‌هاب،[]
  []
 
 
-Underfull \hbox (badness 3668) in paragraph at lines 317--319
-[][]\TU/XBNiloofar(3)/b/n/10 پردازش تصویر و متن: \TU/XBNiloofar(3)/m/n/10 اوپن‌
-سی‌وی، تسراکت[]
+Underfull \hbox (badness 1546) in paragraph at lines 344--346
+[][]\TU/XBNiloofar(4)/b/n/9 ابزارهای توسعه و تست: وی‌اس کد، پست‌من، اَپی[]
  []
 
 
-Underfull \hbox (badness 6825) in paragraph at lines 317--319
-[]\TU/XBNiloofar(3)/m/n/10 او‌سی‌آر، پایپ‌لاین او‌سی‌آر، اکسترکشن ویژگی،[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 323--325
-[]\TU/XBNiloofar(3)/m/n/10 مارک‌داون، لاتک، استراکچر.ام‌دی، بهینه‌سازی[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 339--340
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 349--354
+Underfull \hbox (badness 10000) in paragraph at lines 367--372
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--360
+Underfull \hbox (badness 10000) in paragraph at lines 376--378
 [][]
  []
 
 [2] (./persian.aux)
  ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-02-20>
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
  ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `persian.out' has not changed.
 (rerunfilecheck)             Checksum: 3C82F5C22B1B20D3363FC45A8091321E;920.
  ) 
 Here is how much of TeX's memory you used:
- 14200 strings out of 474773
- 288965 string characters out of 5757723
- 1954839 words of memory out of 5000000
- 36102 multiletter control sequences out of 15000+600000
- 558877 words of font info for 93 fonts, out of 8000000 for 9000
+ 14487 strings out of 468173
+ 311209 string characters out of 5435520
+ 797481 words of memory out of 5000000
+ 42998 multiletter control sequences out of 15000+600000
+ 630200 words of font info for 84 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 109i,5n,137p,1313b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 103i,5n,130p,1204b,486s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on persian.pdf (2 pages).

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025/Debian) (preloaded format=xelatex 2026.7.10)  17 JUL 2026 13:20
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025/Debian) (preloaded format=xelatex 2026.7.10)  17 JUL 2026 13:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -532,33 +532,9 @@ ge=dflt;"
 ge=dflt;+smcp;"
 
 
-Underfull \hbox (badness 1960) in paragraph at lines 41--42
-[]\TU/Lato-Lig(0)/m/n/10 Designed and improved Text-to-Speech and Speech-to-Tex
-t services
- []
-
-
-Underfull \hbox (badness 2293) in paragraph at lines 73--74
-[]\TU/Lato-Lig(0)/m/n/10 Feature extraction and named-entity recognition throug
-h language-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-[]\TU/Lato-Lig(0)/m/n/10 Used ASR, TTS, large language models, and generative A
-I with
- []
-
-
-Underfull \hbox (badness 1540) in paragraph at lines 78--79
-[]\TU/Lato-Lig(0)/m/n/10 Gathered and analyzed user comments about Digikala and
- Amazon
- []
-
-
-Underfull \hbox (badness 3148) in paragraph at lines 87--88
-[]\TU/Lato-Lig(0)/m/n/10 Monitored the artificial intelligence centers of house
-hold-appliance
+Underfull \hbox (badness 1102) in paragraph at lines 46--47
+[]\TU/Lato-Lig(0)/m/n/9 Integrated and deployed language models (Qwen, Aya, Gem
+ma, LLaMA) on
  []
 
 
@@ -575,151 +551,151 @@ Package fontspec Info:
 
 
 LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/b/n' undefined
-(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 104.
+(Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 108.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--109
+Underfull \hbox (badness 10000) in paragraph at lines 109--113
 []\TU/Lato-Lig(0)/m/n/9 Python and IPython Notebook (machine
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--109
+Underfull \hbox (badness 10000) in paragraph at lines 109--113
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--114
+Underfull \hbox (badness 10000) in paragraph at lines 115--118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--125
+Underfull \hbox (badness 10000) in paragraph at lines 121--129
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 132.
+(Font)              <9> on input line 137.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 132.
+(Font)              <6> on input line 137.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 132.
+(Font)              <5> on input line 137.
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--134
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--138
+Underfull \hbox (badness 10000) in paragraph at lines 132--139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--148
+Underfull \hbox (badness 10000) in paragraph at lines 141--143
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--156
+Underfull \hbox (badness 10000) in paragraph at lines 146--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--161
 
  []
 
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 252--258
+Underfull \hbox (badness 10000) in paragraph at lines 267--273
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 261--262
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
 []\TU/Lato-Lig(0)/b/n/10 Languages and Frameworks: \TU/Lato-Lig(0)/m/n/10 Pytho
 n
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 261--262
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
 \TU/Lato-Lig(0)/m/n/10 (FastAPI, Flask, Streamlit), JavaScript
  []
 
 
-Underfull \hbox (badness 4886) in paragraph at lines 263--264
+Underfull \hbox (badness 4886) in paragraph at lines 278--279
 \TU/Lato-Lig(0)/m/n/10 Docker Compose, Docker Swarm, Ol-
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 263--264
+Underfull \hbox (badness 3343) in paragraph at lines 278--279
 \TU/Lato-Lig(0)/m/n/10 lama, VLLM, Llama Factory, Kong API
  []
 
 
-Underfull \hbox (badness 4899) in paragraph at lines 263--264
-\TU/Lato-Lig(0)/m/n/10 Gateway, DEC, Nginx, Apache Server,
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
+\TU/Lato-Lig(0)/m/n/10 Gateway, n8n, DEC, Nginx, Apache
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--264
-\TU/Lato-Lig(0)/m/n/10 Cloudflare, SQL Server, PostgreSQL,
+Underfull \hbox (badness 7099) in paragraph at lines 278--279
+\TU/Lato-Lig(0)/m/n/10 Server, Cloudflare, SQL Server, Post-
  []
 
 
-Underfull \hbox (badness 5970) in paragraph at lines 265--266
+Underfull \hbox (badness 5970) in paragraph at lines 280--281
 \TU/Lato-Lig(0)/m/n/10 PyTorch, TensorFlow, NVIDIA NEMO,
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 267--268
+Underfull \hbox (badness 3271) in paragraph at lines 282--283
 []\TU/Lato-Lig(0)/b/n/10 Image and Text Processing: \TU/Lato-Lig(0)/m/n/10 Open
 CV,
  []
 
 
-Underfull \hbox (badness 1902) in paragraph at lines 267--268
+Underfull \hbox (badness 1902) in paragraph at lines 282--283
 \TU/Lato-Lig(0)/m/n/10 Extraction, Summarizer, Validation Ser-
  []
 
 
-Underfull \hbox (badness 5954) in paragraph at lines 269--270
+Underfull \hbox (badness 5954) in paragraph at lines 284--285
 \TU/Lato-Lig(0)/m/n/10 Fine-tuning Pipelines, PEFT, Flash At-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 271--272
+Underfull \hbox (badness 10000) in paragraph at lines 286--287
 []\TU/Lato-Lig(0)/b/n/10 Version Control and Documentation:
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 271--272
+Underfull \hbox (badness 3965) in paragraph at lines 286--287
 \TU/Lato-Lig(0)/m/n/10 Git, GitHub, Markdown, LaTeX, struc-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 273--274
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
 []\TU/Lato-Lig(0)/b/n/10 Development and Testing Tools: \TU/Lato-Lig(0)/m/n/10 
 VS
  []
 
 
-Underfull \hbox (badness 5119) in paragraph at lines 273--274
+Underfull \hbox (badness 5119) in paragraph at lines 288--289
 \TU/Lato-Lig(0)/m/n/10 Code, Postman, API Explorer, Gradio,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--283
+Underfull \hbox (badness 10000) in paragraph at lines 292--298
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--288
+Underfull \hbox (badness 10000) in paragraph at lines 301--303
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--296
+Underfull \hbox (badness 10000) in paragraph at lines 306--311
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--301
+Underfull \hbox (badness 10000) in paragraph at lines 314--316
 
  []
 
@@ -736,12 +712,12 @@ Package rerunfilecheck Info: File `english.out' has not changed.
 (rerunfilecheck)             Checksum: 55A3B2BBBD32D9B984F5E2D87636509E;720.
  ) 
 Here is how much of TeX's memory you used:
- 12044 strings out of 468173
- 238634 string characters out of 5435520
- 729636 words of memory out of 5000000
- 40619 multiletter control sequences out of 15000+600000
- 630248 words of font info for 90 fonts, out of 8000000 for 9000
+ 12046 strings out of 468173
+ 238738 string characters out of 5435520
+ 731636 words of memory out of 5000000
+ 40620 multiletter control sequences out of 15000+600000
+ 630256 words of font info for 91 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 88i,5n,130p,550b,464s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,5n,130p,549b,463s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on english.pdf (2 pages).
