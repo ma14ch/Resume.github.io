@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025/Debian) (preloaded format=xelatex 2026.7.10)  17 JUL 2026 13:42
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025/Debian) (preloaded format=xelatex 2026.7.10)  17 JUL 2026 14:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -814,51 +814,51 @@ LaTeX Font Warning: Font shape `TU/XBNiloofar(4)/b/n' undefined
 (Font)              using `TU/XBNiloofar(4)/m/n' instead on input line 32.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--146
+Underfull \hbox (badness 10000) in paragraph at lines 158--163
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--152
+Underfull \hbox (badness 10000) in paragraph at lines 165--169
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--157
+Underfull \hbox (badness 10000) in paragraph at lines 171--174
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--163
+Underfull \hbox (badness 10000) in paragraph at lines 176--180
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--168
+Underfull \hbox (badness 10000) in paragraph at lines 182--185
 [][]
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 172.
+(Font)              <8> on input line 189.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 172.
+(Font)              <6> on input line 189.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 172.
+(Font)              <5> on input line 189.
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(3)/bx/n' undefined
-(Font)              using `TU/XBNiloofar(3)/m/n' instead on input line 172.
+(Font)              using `TU/XBNiloofar(3)/m/n' instead on input line 189.
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar(3)/m/it' undefined
-(Font)              using `TU/XBNiloofar(3)/m/n' instead on input line 172.
+(Font)              using `TU/XBNiloofar(3)/m/n' instead on input line 189.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--173
+Underfull \hbox (badness 10000) in paragraph at lines 187--190
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--177
+Underfull \hbox (badness 10000) in paragraph at lines 192--194
 [][]
  []
 
@@ -867,55 +867,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 175--177
 ]
 
 LaTeX Font Warning: Font shape `TU/TimesNewRoman(0)/b/n' undefined
-(Font)              using `TU/TimesNewRoman(0)/m/n' instead on input line 203.
+(Font)              using `TU/TimesNewRoman(0)/m/n' instead on input line 220.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--300
+Underfull \hbox (badness 10000) in paragraph at lines 311--317
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 303--305
+Underfull \hbox (badness 10000) in paragraph at lines 320--322
 [][]\TU/XBNiloofar(4)/b/n/9 زبان‌ها و چارچوب‌ها: پایتون (فست‌ای‌پی‌آی،[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 303--305
+Underfull \hbox (badness 10000) in paragraph at lines 320--322
 []\TU/XBNiloofar(4)/b/n/9 فلسک، استریم‌لیت)، جاوااسکریپت (نود.جی‌اس)،[]
  []
 
 
-Underfull \hbox (badness 1748) in paragraph at lines 309--311
+Underfull \hbox (badness 1748) in paragraph at lines 326--328
 []\TU/XBNiloofar(4)/b/n/9 هاگینگ‌فیس ترنسفورمرز، پای‌تورچ، تنسورفلو، انویدیا[]
  []
 
 
-Underfull \hbox (badness 4108) in paragraph at lines 315--317
+Underfull \hbox (badness 4108) in paragraph at lines 332--334
 []\TU/XBNiloofar(4)/b/n/9 فلش اتنشن، پیش‌پردازش داده‌ها (ای‌اس‌آر، او‌سی‌آر،[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--320
+Underfull \hbox (badness 10000) in paragraph at lines 335--337
 [][]\TU/XBNiloofar(4)/b/n/9 مدیریت نسخه و مستندسازی: گیت، گیت‌هاب،[]
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 321--323
+Underfull \hbox (badness 1546) in paragraph at lines 338--340
 [][]\TU/XBNiloofar(4)/b/n/9 ابزارهای توسعه و تست: وی‌اس کد، پست‌من، اَپی[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--349
+Underfull \hbox (badness 10000) in paragraph at lines 361--366
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--355
+Underfull \hbox (badness 10000) in paragraph at lines 370--372
 [][]
  []
 
@@ -932,11 +932,11 @@ Package rerunfilecheck Info: File `persian.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14481 strings out of 468173
- 311142 string characters out of 5435520
- 796481 words of memory out of 5000000
- 42992 multiletter control sequences out of 15000+600000
- 630200 words of font info for 84 fonts, out of 8000000 for 9000
+ 14484 strings out of 468173
+ 311251 string characters out of 5435520
+ 801481 words of memory out of 5000000
+ 42994 multiletter control sequences out of 15000+600000
+ 630208 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  103i,5n,130p,1204b,345s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
