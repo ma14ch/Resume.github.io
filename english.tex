@@ -1,414 +1,304 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% ma14ch CV/Resume
-% XeLaTeX Template
-% Version 1.0 (30/12/2024)
-%
-% This template has been downloaded from:
-% http://www.github.com/ma14ch
-%
-% Original author:
-% mohammad abbasi
+% Mohammad Abbasi Resume
+% English version — kept in sync with persian.tex
+% This document needs to be compiled with XeLaTeX.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
-% Important notes:
-% This template needs to be compiled with XeLaTeX.
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\documentclass[a4paper]{deedy-resume} % Use US Letter paper, change to a4paper for A4 
+\documentclass[a4paper]{deedy-resume}
 
 \begin{document}
-\hypersetup{%
-    pdfborder = {0 0 0}
+\hypersetup{pdfborder = {0 0 0}}
+
+%----------------------------------------------------------------------------------------
+% TITLE SECTION
+%----------------------------------------------------------------------------------------
+
+\lastupdated
+\namesection{Mohammad}{Abbasi}{
+Website: \href{http://zilabs.ir}{\bf http://zilabs.ir} | Phone: +989106091633 \\
+\href{mailto:absi1377@hotmail.com}{absi1377@hotmail.com} |
+\href{https://www.linkedin.com/in/ma14ch}{Mohammad Abbasi Chahardah Cherik (LinkedIn)} |
+GitHub: \href{https://github.com/ma14ch}{ma14ch}
 }
-%----------------------------------------------------------------------------------------
-%	TITLE SECTION
-%----------------------------------------------------------------------------------------
 
-\lastupdated % Print the Last Updated text at the top right
-
-\namesection{Mohammad}{Abbasi}{ % Your name profile or other web address
-Website : \href{zilabs.ir}{\bf http://zilabs.ir} |  Phone Number : +989106091633 \\
-\href{mailto:absi1377@hotmail.com}{absi1377@hotmail.com} | Mohammad Abbasi Chahardah Cherik (linkdin) | GitHub : ma14ch
-}
+\vspace{1em}
 
 %----------------------------------------------------------------------------------------
-%	LEFT COLUMN
+% FIRST PAGE: EXPERIENCE AND SKILLS
 %----------------------------------------------------------------------------------------
 
-\begin{minipage}[t]{0.33\textwidth} % The left column takes up 33% of the text width of the page
+\begin{minipage}[t]{0.62\textwidth}
 
-%------------------------------------------------
-% Skills
-%------------------------------------------------
+\textcolor{gray}{\huge{Experience}}
+\vspace{\topsep}
 
-\section{Skills}
-
-\subsection{Programming}
-Python and iPython Notebook \\
-R \\
-JavaScript, HTML, and CSS \\
-MySQL\\
-Matlab\\
-...\\
-
-\subsection{Machine Learning}
-Regression \\
-Support Vector Machines \\
-Naive Bayes \\
-K-Nearest Neighbors \\
-Decision Trees \\
-Cluster Analysis \\
-Natural Language Processing \\
-...\\
-
-\sectionspace % Some white space after the section
-
-\subsection{Deep Learning}
-Neural Networks \\
-CNN \\
-GNN \\
-RNN \\
-GANs \\ 
-Encoder \& Decoder \\
-Transformers\\
-...\\
-
-\sectionspace % Some white space after the section
-
-\subsection{Software}
-Rapid Miner\\
-Cvat \\
-Label Studio\\
-Canva \\
-Figma \\
-ML Studio\\
-\LaTeX \\
-...\\
-
-\subsection{Operation systems}
-Linux (Expert)\\
-Windows\\
-
-\sectionspace % Some white space after the section
-
-
-\subsection{Platforms}
-Anaconda \\
-NVIDIA\texttrademark NEMO \\
-Git\\
-GitHub \\
-Docker \\
-LibRecommender\\
-Cornac\\
-
-\sectionspace % Some white space after the section
-
-%----------------------------------------------------------------------------------------
-
-\end{minipage} % The end of the left column
-\hfill
-%
-%----------------------------------------------------------------------------------------
-%	RIGHT COLUMN
-%----------------------------------------------------------------------------------------
-%
-\begin{minipage}[t]{0.66\textwidth} % The right column takes up 66% of the text width of the page
-
-%------------------------------------------------
-% Experience
-%------------------------------------------------
-
-\section{Experience}
-
-\sectionspace % Some white space after the section
-
-\runsubsection{Faragostar}
-\descript{| AI Engineer}
-\location{Apr 2025 – Present | Tehran, Iran (Hybrid)}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\textbf{Faragostar} | AI Engineer \\
+\vspace{\itemsep}
+Apr 2025 – Present (Hybrid) | Tehran, Iran
 \begin{tightitemize}
-\item Developed and optimized Persian RAG systems using LangChain and LangGraph.
-\item Implemented and deployed enterprise-scale OCR, Summarizer, Feature Extraction, and Letter Writer services.
-\item Improved TTS and ASR systems via model fine-tuning and prompt optimization.
-\item Integrated LLMs (Qwen, Aya, Gemma, LLaMA) on Docker, Ollama, and VLLM infrastructure.
-\item Designed AgentCore and Agentic Systems with long-term memory and interactive graphs.
-\item Managed infrastructure including Docker networking, Kong API Gateway, PostgreSQL, and SQL Server.
-\item Fine-tuned Persian TTS and ASR models (Mana) and built training/evaluation pipelines.
-\item Fully documented services, managed Git repositories, and maintained clean codebases.
+\item Developed and optimized Persian RAG systems for document retrieval using LangChain and LangGraph.
+\item Implemented, improved, and deployed enterprise-scale OCR, Summarizer, Feature Extraction, and Letter Writer services.
+\item Designed and improved Text-to-Speech and Speech-to-Text services through model fine-tuning and prompt optimization.
+\item Integrated and deployed language models (Qwen, Aya, Gemma, LLaMA) on Docker, Ollama, and VLLM infrastructure.
+\item Designed and implemented AgentCore and Agentic Systems modules with Long-Term Memory and interactive graphs.
+\item Managed and optimized infrastructure, including Docker networking, Kong API Gateway, PostgreSQL, and SQL Server.
+\item Fine-tuned language and speech models (Mana TTS and ASR) and designed training and evaluation pipelines.
+\item Fully documented services, managed Git repositories, and cleaned up codebases and documentation.
 \end{tightitemize}
+\vspace{\topsep}
 
-\sectionspace
+\textbf{Malek Ashtar University} | Researcher \\
+\vspace{\itemsep}
+Feb 2025 – Present (Part-time) | Tehran, Iran
+\begin{tightitemize}
+\item Satellite image processing (SAR/ISAR).
+\end{tightitemize}
+\vspace{\topsep}
 
-\runsubsection{Demis}
-\descript{| AI Specialist}
-\location{Feb 2025 – Apr 2025 | Isfahan, Iran}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\textbf{Demis} | AI Specialist \\
+\vspace{\itemsep}
+Feb 2025 – Apr 2025 | Isfahan, Iran
 \begin{tightitemize}
 \item Speech-to-text project.
 \item AI-powered medical assistant project.
 \end{tightitemize}
+\vspace{\topsep}
+
+\textbf{Entekhab Industrial Group} | AI Specialist \\
+\vspace{\itemsep}
+Nov 2023 – Apr 2024 | Isfahan, Iran, SnowaTec
+\begin{tightitemize}
+\item RAG for instruction manuals.
+\item Food recommender system using a Telegram bot (available on GitHub).
+\item Feature extraction and named-entity recognition through language-model fine-tuning.
+\item Text generation and feature extraction using large language models.
+\item Built translation models using Transformers (available on GitHub).
+\item Developed a food recommender system based on food ingredients.
+\item Used ASR, TTS, large language models, and generative AI with NVIDIA\texttrademark NEMO.
+\item Gathered and analyzed user comments about Digikala and Amazon products (available on GitHub).
+\item ...
+\end{tightitemize}
+\vspace{\topsep}
+
+\textbf{Entekhab Industrial Group} | Technology Monitoring Specialist \\
+\vspace{\itemsep}
+Sep 2022 – Nov 2023 | Isfahan, Iran, SnowaTec
+\begin{tightitemize}
+\item Monitored the artificial intelligence centers of household-appliance companies (Bosch, Samsung, LG, etc.).
+\item Examined the structure of AI platforms and online services of leading home-appliance companies.
+\item Conducted patent searches.
+\item Benchmarked smart home appliances and future trends.
+\item Benchmarked products in the home-appliance sector.
+\item Monitored enterprise AI tools.
+\item ...
+\end{tightitemize}
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.33\textwidth}
+\small
+
+\textcolor{gray}{\huge{Skills}}
+\vspace{\itemsep}
+
+\subsection*{Programming}
+Python and IPython Notebook (machine learning and deep learning) \\
+R (beginner) \\
+JavaScript, HTML, and CSS (previously used) \\
+MySQL (previously used) \\
+
+\subsection{Machine Learning}
+Regression \\
+Cluster analysis \\
+Classification \\
 
 \sectionspace
+\subsection{Deep Learning}
+Neural networks \\
+CNN \\
+GNN \\
+RNN (beginner) \\
+GANs (beginner) \\
+Encoder and decoder \\
+Transformers (beginner) \\
+... \\
 
-\runsubsection{Entekhab Industrial Group}
-\descript{|AI Specialist}
-\location{Nov 2023 – Apr 2024 | Isfahan,Iran,SnowaTec}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightitemize}
-\item RAG For Instruction Manuals
-\item Food Recommender System Using TelegramBot (available on Github)
-\item Feature Extraction and Name Entity Recognition by Fine-Tuning Language Models
-\item Text Generation And Feature Extraction Using LLMs
-\item Building Translation Models Using Transformers
-\item Developing Food Recommender System Based On Food Ingredients 
-\item ASR, TTS, LLMs AND Generative AI Using NVIDIA\texttrademark NEMO 
-\item Digikala And Amazon Products User Comments Gathering And Analyzing (available on Github)
-\item ...
-\end{tightitemize}
+\sectionspace
+\subsection{Software}
+RapidMiner \\
+CVAT \\
+Label Studio \\
+LM Studio \\
+\LaTeX \\
+... \\
 
-\sectionspace % Some white space after the section
+\subsection{Operating Systems}
+Linux (expert) \\
+Windows \\
 
-%------------------------------------------------
-\runsubsection{Entekhab Industrial Group}
-\descript{| Technology Forecast Expert}
-\location{Sep 2022 – Nov 2023 | Isfahan,Iran,SnowaTec}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightitemize}
-\item Monitoring artificial intelligence centers of companies related to household appliances (Bosch, Samsung, LG, etc.)
-\item Examining The Structure of Artificial Intelligence Platform and Online Services of Prominent Home Appliance Companies
-\item Patent Search
-\item Benchmark Smart Home appliances and Future Trends 
-\item ...
-\end{tightitemize}
+\sectionspace
+\subsection{Platforms}
+Anaconda \\
+NVIDIA\texttrademark NEMO \\
+Git \\
+GitHub \\
+Docker \\
+LibRecommender (recommender systems) \\
+Cornac (recommender systems) \\
 
-\sectionspace % Some white space after the section
+\sectionspace
+\subsection{Productivity Software}
+Microsoft Office (Excel, Word, PowerPoint) \\
+Canva \\
+Adobe Photoshop \\
+Adobe Audition \\
+Adobe Premiere \\
 
-%----------------------------------------------------------------------------------------
-
-\end{minipage} % The end of the right column
-
-%----------------------------------------------------------------------------------------
-%	SECOND PAGE (EXAMPLE)
-%----------------------------------------------------------------------------------------
+\end{minipage}
 
 \newpage
 
 %----------------------------------------------------------------------------------------
-%	LEFT COLUMN
+% SECOND PAGE: EARLIER EXPERIENCE, EDUCATION, AND ADDITIONAL INFORMATION
 %----------------------------------------------------------------------------------------
 
-\begin{minipage}[t]{0.33\textwidth} % The left column takes up 33% of the text width of the page
+\begin{minipage}[t]{0.62\textwidth}
 
-%------------------------------------------------
-% Interests
-%------------------------------------------------
+\textbf{Iran Smartech} | Content Creator and Website Designer \\
+\vspace{\itemsep}
+2021 – 2022 | Isfahan, Iran
+\vspace{\itemsep}
+\begin{tightitemize}
+\item Designed elements and posters with Photoshop.
+\item Developed websites using WordPress.
+\end{tightitemize}
+\vspace{\topsep}
 
-\section{Interests}
+\textbf{Farda Sanjesh Sarmayeh (FSSco.)} | Website Designer \\
+\vspace{\itemsep}
+2015 – 2016 | Isfahan, Iran
+\vspace{\itemsep}
+\begin{tightitemize}
+\item Developed websites using WordPress.
+\end{tightitemize}
+\vspace{\topsep}
 
-\subsection{Research interests}
-Large Language Models\\
-Recommender Systems\\
-SAR \& ISAR Image Processing\\
-AI Futurology\\
-Policy making in Artificial Intelligence\\
-Industry 4.0\\
+\textcolor{gray}{\huge{Education}}
+\vspace{\topsep}
 
+\textbf{University of Isfahan} | MSc in Artificial Intelligence \\
+\vspace{\itemsep}
+2022 – 2024 | Isfahan, Iran
+\vspace{\itemsep}
+\begin{tightitemize}
+\item Advanced algorithms, advanced theory of computation, advanced artificial intelligence, machine learning, theoretical foundations of cryptography, computational data mining, and deep learning.
+\item Healthy food recommender system using users' dietary-habit data mining (thesis).
+\item Persian speech-to-speech chatbot (available on GitHub).
+\item Big-data recommender system using Two-Tower, DeepFM, and related models.
+\item Healthy-food recommender system based on nutritional knowledge.
+\item Review of food recommender systems.
+\item Big-data preprocessing for deep-learning and machine-learning applications.
+\item ...
+\end{tightitemize}
+\sectionspace
 
-\sectionspace % Some white space after the section
+\textbf{University of Isfahan} | BSc in Computer Science \\
+\vspace{\itemsep}
+2017 – 2022 | Isfahan, Iran
+\begin{tightitemize}
+\item Computer basics and programming, advanced programming, mathematical foundations, general mathematics 1 and 2, principles of computer systems, combinatorics, matrices and linear algebra, logic and set theory, numerical analysis, operating systems, design and analysis of algorithms, databases, probability, differential equations, linear optimization, theory of computation, algebra, cryptography, coding theory, LaTeX, MATLAB, special topics in computer science (artificial intelligence), and logic circuits.
+\end{tightitemize}
+\sectionspace
 
-\subsection{Hobbies}
-Photography\\
-Cycling\\
-Running\\
-Theater\\
-Cinema\\
+\textcolor{gray}{\huge{Honors and Publications}}
+\vspace{\itemsep}
+\begin{tightitemize}
+\item Graduated in the top 15\% of the BSc cohort — University of Isfahan.
+\item Healthy food recommender system via users' dietary-habit data mining — 15th International Conference on Information and Knowledge Technology (IKT).
+\end{tightitemize}
+\sectionspace
 
-\section{Recent Tech Stack}
-\raggedright
+\textcolor{gray}{\huge{Courses Completed}}
+\vspace{\itemsep}
+\begin{tightitemize}
+\item Git — Great Learning (certified).
+\item LLM Hackathon — Quera (certified).
+\item Data Science Foundations: Data Mining — Lynda.
+\item R Programming A–Z: R for Data Science with Real Exercises — Udemy.
+\item Learn the 2020 Advanced Python Programming — Udemy.
+\item CS50AI 2023 — Harvard University.
+\end{tightitemize}
+\sectionspace
 
-\textbf{Languages \& Frameworks:}  
-Python (FastAPI, Flask, Streamlit), JavaScript (Node.js), HTML/CSS, Bash Script  
+\textcolor{gray}{\huge{Books Read}}
+\vspace{\itemsep}
+\begin{tightitemize}
+\item Data Mining: Concepts and Techniques (Jiawei Han).
+\item Introduction to Algorithms (CLRS).
+\item Artificial Intelligence: A Modern Approach (2010, Prentice Hall).
+\item Decision Support Systems for Business Intelligence, 2nd edition (2010, Wiley).
+\item Matrix Methods in Data Mining and Pattern Recognition (Lars Eldén).
+\item Deep Learning with Python (François Chollet).
+\end{tightitemize}
 
-\textbf{Infrastructure \& Deployment:}  
-Docker, Docker Compose, Docker Swarm, Ollama, VLLM, Llama Factory, Kong API Gateway, DEC, Nginx, Apache Server, Cloudflare, SQL Server, PostgreSQL, pgAdmin  
-
-\textbf{Machine Learning \& LLMs:}  
-LangChain, LangGraph, HuggingFace Transformers, PyTorch, TensorFlow, NVIDIA NEMO, Sentence Transformers, Whisper, Qwen, Aya, LLaMA, Gemma, Mistral, GPT API, Cohere  
-
-\textbf{Image \& Text Processing:}  
-OpenCV, Tesseract OCR, OCR Pipelines, Feature Extraction, Summarizer, Validation Services, Synonym Generator  
-
-\textbf{Data Management \& Model Training:}  
-Fine-tuning Pipelines, PEFT, Flash Attention, Data Preprocessing (ASR, OCR, TTS), Anaconda, Pandas, NumPy  
-
-\textbf{Version Control \& Documentation:}  
-Git, GitHub, Markdown, LaTeX, structure.md, README Optimization  
-
-\textbf{Development \& Testing Tools:}  
-VS Code, Postman, API Explorer, Gradio, Flake8, LM Studio  
-
-\sectionspace % Some white space after the section
-
-\section{Languages}
-Persian (Native)\\
-English (Dominate)\\
-
-
-
-
-
-\sectionspace % Some white space after the section
-
-
-
-%----------------------------------------------------------------------------------------
-
-\end{minipage} % The end of the left column
+\end{minipage}
 \hfill
-%
-%----------------------------------------------------------------------------------------
-%	RIGHT COLUMN
-%----------------------------------------------------------------------------------------
-%
-\begin{minipage}[t]{0.66\textwidth} % The right column takes up 66% of the text width of the page
+\begin{minipage}[t]{0.33\textwidth}
 
+\textcolor{gray}{\huge{Interests}}
+\vspace{\itemsep}
 
-\runsubsection{iransmartech}
-\descript{| Content Creator and Website designer}
+\subsection*{Research Interests}
+Large language models \\
+Recommender systems \\
+SAR and ISAR image processing \\
+AI futurology \\
+AI policy-making \\
+Industry 4.0 \\
 
-\location{2021 – 2022 | Isfahan,Iran}
-%\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightitemize}
-\item Design elements and posters with Photoshop 
-\item Website Developer Using Wordpress
+\sectionspace
+\subsection*{Recent Technology Stack}
+\textbf{Languages and Frameworks:} Python (FastAPI, Flask, Streamlit), JavaScript (Node.js), HTML/CSS, Bash Script
 
-\end{tightitemize}
+\textbf{Infrastructure and Deployment:} Docker, Docker Compose, Docker Swarm, Ollama, VLLM, Llama Factory, Kong API Gateway, DEC, Nginx, Apache Server, Cloudflare, SQL Server, PostgreSQL, pgAdmin
 
-\sectionspace % Some white space after the section
+\textbf{Machine Learning and LLMs:} LangChain, LangGraph, Hugging Face Transformers, PyTorch, TensorFlow, NVIDIA NEMO, Sentence Transformers, Whisper, Qwen, Aya, LLaMA, Gemma, Mistral, GPT API, Cohere
 
-\runsubsection{Farda Sanjesh Sarmayeh(FSSco.)}
-\descript{| Website designer}
+\textbf{Image and Text Processing:} OpenCV, Tesseract OCR, OCR Pipelines, Feature Extraction, Summarizer, Validation Services, Synonym Generator
 
-\location{2017 – 2018 | Isfahan,Iran}
-%\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightitemize}
-\item Website Developer Using Wordpress
+\textbf{Data Management and Model Training:} Fine-tuning Pipelines, PEFT, Flash Attention, Data Preprocessing (ASR, OCR, TTS), Anaconda, Pandas, NumPy
 
-\end{tightitemize}
+\textbf{Version Control and Documentation:} Git, GitHub, Markdown, LaTeX, structure.md, README Optimization
 
-\sectionspace % Some white space after the section
+\textbf{Development and Testing Tools:} VS Code, Postman, API Explorer, Gradio, Flake8, LM Studio
 
-%------------------------------------------------
-% Education
-%------------------------------------------------
+\sectionspace
+\subsection*{Text Models Used}
+Qwen 2.5 \\
+Qwen 3 \\
+Cohere Aya \\
+Llama 3 \\
+MT5 \\
+Sentence-transformer base models \\
 
-\section{Education}
+\sectionspace
+\subsection*{Text + Image Models Used}
+Qwen 2.5 VL \\
+Mistral \\
 
-\runsubsection{University of Isfahan}
-\descript{| MSc in Artificial Intelligence }
-\location{2022 – 2024 | Isfahan,Iran}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightitemize}
-\item Advanced algorithms, Advanced calculation theory, Advanced Artificial Intelligence, Machine learning, Theoretical foundations of cryptography, Computational data mining, Deep learning
-\item Health-aware Food Recommender System (Thesis)
-\item Big Data Recommender Systems Using TwoTower, DeepFM, Wide \& Deep, etc...
-\item Health Knowledged Food Recommender System For North American Culture
-\item Review On Food Recommender Systems
-\item Big Data Preprocessing For DL and ML purpose
-\end{tightitemize}
+\sectionspace
+\subsection*{Hobbies}
+Photography \\
+Cycling \\
+Running \\
+Theater \\
+Cinema \\
 
-\sectionspace % Some white space after the section
+\sectionspace
+\subsection*{Languages}
+Persian (native) \\
+English (fluent) \\
 
-\runsubsection{University of Isfahan}
-\descript{| BSc in Computer Science }
-\location{2017 – 2021 | Isfahan,Iran}
-%\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightitemize}
-\item Computer basics and programming, Advanced Programming, Basics of Mathematical Sciences, General Mathematics 1,2, Principles of Computer Systems, Basics of Combinations,  Basics of Matrices and Linear Algebra, Basics of Logic and Set Theory, Fundamentals of Numerical Analysis, Principles of Operating Systems, Designing and Analyzing Algorithms, Mathematics Database, Bases of Probability, Differential Equations, Linear Optimization, Theory of Calculation, Basics of Algebra,  Encryption, Coding Theory, Latex, Matlab, Special Topics in Computer Science(Artificial Intelligence), Logic Circuits
-\end{tightitemize}
-\sectionspace % Some white space after the section
+\end{minipage}
 
-
-\section{Honors \& Publications}
-\hfill
-%\vspace{\topsep}
-\begin{tightitemize}
-\item Top 15\% graduate in BSc cohort – University of Isfahan.
-\item Paper: “Healthy Food Recommender via Dietary Habit Data Mining” – 15th International Conference on Information and Knowledge Technology (IKT).
-\end{tightitemize}
-\sectionspace % Some white space after the section
-
-%------------------------------------------------
-% Nonprofit Sector Experience
-%------------------------------------------------
-
-%\section{Nonprofit Sector Experience}
-
-%\runsubsection{Association of Independent Students }
-%\descript{| Member}
-%\location{2017 – Now | Iran,Isfahan,University of Isfahan}
-%\vspace{\topsep} % Hacky fix for awkward extra vertical space
-%\begin{tightitemize}
-%\item Attending disadvantaged areas, building houses and schools and providing cultural services
-%\item Photography
-%\item Content Creating (Using Adobe Photoshop And InDesign)
-%\end{tightitemize}
-%\descript{| Head of Scientific Assistant}
-%\location{Oct 2023 – Now | Iran,Isfahan,University of Isfahan}
-%\vspace{\topsep} % Hacky fix for awkward extra vertical space
-%\begin{tightitemize}
-%\item Organization and Training of Students Interested in Scientific Activities
-%\end{tightitemize}
-%\descript{| Vice President of Media}
-%\location{2020 – 2021 | Iran,Isfahan,University of Isfahan}
-%\vspace{\topsep} % Hacky fix for awkward extra vertical space
-%\begin{tightitemize}
-%\item Document production of activities
-%\item Content Production and Publication Writing
-%\item Teaching Photoshop and Editing Publications to Iterested Students
-%\end{tightitemize}
-%\sectionspace % Some white space after the section
-
-%------------------------------------------------
-
-%------------------------------------------------
-% Books and specialized courses completed
-%------------------------------------------------
-
-\section{Books and courses}
-
-\runsubsection{Books}
-\descript{ }
-
-
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightitemize}
-\item Data Mining: Concepts and Techniques(by Jiawei Han)
-\item Introduction to Algorithms(CLRS)
-\item Artificial Intelligence - A Modern Approach (2010, Prentice Hall) 
-\item Decision Support Systems for Business Intelligence, 2nd Edition (2010, Wiley)
-\item Matrix Methods in Data Mining and Pattern Recognition (Lars Eldén)
-\item Deep Learning with Python (by François Chollet)
-\end{tightitemize}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-
-\runsubsection{COURSES}
-
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightitemize}
-\item Git - GreatLearning (Certified)
-\item LLM Hackaton - Quera (Certified)
-\item Data Science Foundations Data Mining -Lynda
-\item R Programming AZ R For Data Science With Real Exercises - Udemy
-\item Learn the 2020 Advanced Python Programming - Udemy
-\item CS50AI 2023 - Harvard 
-\end{tightitemize}
-
-%------------------------------------------------
-
-
-%----------------------------------------------------------------------------------------
-
-\end{minipage} % The end of the right column
 \end{document}
